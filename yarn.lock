@@ -1647,11 +1647,6 @@ functional-red-black-tree@^1.0.1:
   resolved "https://registry.yarnpkg.com/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
   integrity sha1-GwqzvVU7Kg1jmdKcDj6gslIHgyc=
 
-generic-pool@^3.6.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/generic-pool/-/generic-pool-3.6.0.tgz#34e3124d9af754c8bfee7c15906e7347dc543afc"
-  integrity sha512-9tRjIJzgW+ZyYeFBhfLRUefnQwF+IFfEsUkdZB5o75/gb4OZWnYb4ZjPcZc1bl9ofhWCN2rGhXa0SQwF64jTLw==
-
 generic-pool@^3.7.1:
   version "3.7.1"
   resolved "https://registry.yarnpkg.com/generic-pool/-/generic-pool-3.7.1.tgz#36fe5bb83e7e0e032e5d32cd05dc00f5ff119aa8"

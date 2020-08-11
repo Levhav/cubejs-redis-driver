@@ -13,12 +13,10 @@
   },
   "main": "driver/RedisDriver.js",
   "scripts": {
-    "test": "jest",
-    "lint": "eslint driver/*.js test/*.js"
+    "lint": "eslint driver/*.js --fix"
   },
   "dependencies": {
     "@cubejs-backend/query-orchestrator": "^0.19.56",
-    "generic-pool": "^3.6.0", 
     "redis": "^3.0.2",
     "redis-sql": "^0.0.1"
   },
